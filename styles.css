@@ -1,0 +1,106 @@
+#title{
+    background-color: #ff4c68;
+    font-family: 'Montserrat', sans-serif;
+    color:#fff;
+}
+
+.meet-dogs{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color: azure;
+   /* padding-left: 30px;*/
+}
+ul{
+    padding-left: 200px;
+}
+/*button:hover{
+    background-color:grey;
+    font-family: 'Montserrat', sans-serif;
+  /*  margin-left: 50px;
+    padding: 8px;
+    color: aliceblue;
+}*/
+    
+
+.container-fluid{
+    padding: 3% 15%;
+    /* border:1px solid; */
+}
+
+.navbar{
+    padding: 0%;
+}
+
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+
+button{
+    margin-top: 6rem;
+    
+}
+.img{
+    width:65%;
+    transform:rotate(25deg);
+   margin-left: 5rem;
+}
+    
+     .fa-circle-shape{ 
+        line-height: 1.1;
+        padding-top:50px;
+    }
+     .icon{
+        padding:20px; 
+        color:#ff4c68 ;
+     }
+    .icon:hover{
+        color: red;
+    }
+
+#testimonials{
+    text-align: center;
+    padding: 7% 15% ;
+    background-color: #ff4c68;
+
+}
+.h{
+    padding: 0 22%;
+    font-weight: 700;
+    color: #fff;
+    font-family: 'Caveat', cursive;
+
+}
+.dog{
+     margin: 20px ; 
+    /* padding-bottom: 3rem; */
+    border-radius: 100%;
+    width: 10%;
+    margin-left: 20px;
+    
+}
+em{
+    font-weight: bolder;
+}
+#press{
+    background-color: #ff4c68;
+    padding-bottom: 2rem;
+    text-align: center;
+   
+}
+.size{
+    width:20%;
+    padding:10px 30px;
+}
+
+#pricing{
+    text-align: center;
+    padding: 10%;
+}
+.button-one{
+    margin-top: 0px;
+}
